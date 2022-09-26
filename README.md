@@ -46,7 +46,7 @@ Aplicação Web front-end de organização financeira. Feito utilizando _ReactJS
 
 ## :open_file_folder: Execute o projeto localmente
 
-:heavy*exclamation_mark: **Requisitos:** \_Node.js v.16.17.0*
+:heavy_exclamation_mark: **Requisitos:** \_Node.js v.16.17.0*
 
 1. Clone o repositório:
 
