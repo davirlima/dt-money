@@ -9,20 +9,28 @@
       "createdAt": "2022-09-28T01:09:46.514Z"
     },
     {
-      "id": 2,
-      "description": "Hamburguer",
-      "type": "outcome",
+      "description": "Hamburgue",
+      "price": 35,
       "category": "Alimentação",
-      "price": 50,
-      "createdAt": "2022-09-28T01:02:46.514Z"
+      "type": "outcome",
+      "createdAt": "2022-09-28T04:00:36.507Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "description": "Ignite - Rocketseat",
-      "type": "outcome",
+      "description": "Inglês",
+      "price": 200,
       "category": "Educação",
-      "price": 1080,
-      "createdAt": "2022-09-28T01:24:46.514Z"
+      "type": "outcome",
+      "createdAt": "2022-09-28T04:00:58.883Z",
+      "id": 3
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 500,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-09-28T04:01:26.357Z",
+      "id": 4
     }
   ]
 }
