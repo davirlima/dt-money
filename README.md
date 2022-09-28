@@ -7,6 +7,7 @@
 Aplicação Web front-end de organização financeira. Feito utilizando _ReactJS_.
 
 :construction: **Projeto em desenvolvimento** :construction:
+
 <!-- :link: <https://dt-money-davirlima.vercel.app/> :link: -->
 
 </div>
@@ -34,8 +35,10 @@ Aplicação Web front-end de organização financeira. Feito utilizando _ReactJS
 ## :books: Bibliotecas:
 
 - styled-components;
-- radix-ui.
-- phosphor-react.
+- radix-ui;
+- phosphor-react;
+- react-hook-form;
+- zod.
 
 ## :hammer: Funcionalidades:
 
@@ -46,7 +49,7 @@ Aplicação Web front-end de organização financeira. Feito utilizando _ReactJS
 
 ## :open_file_folder: Execute o projeto localmente
 
-:heavy_exclamation_mark: **Requisitos:** \_Node.js v.16.17.0*
+:heavy_exclamation_mark: **Requisitos:** \_Node.js v.16.17.0\*
 
 1. Clone o repositório:
 
