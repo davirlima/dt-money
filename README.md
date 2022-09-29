@@ -38,7 +38,9 @@ Aplicação Web front-end de organização financeira. Feito utilizando _ReactJS
 - radix-ui;
 - phosphor-react;
 - react-hook-form;
-- zod.
+- zod;
+- json-server;
+- use-context-selector.
 
 ## :hammer: Funcionalidades:
 
