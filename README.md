@@ -75,54 +75,23 @@ npm run dev
 yarn dev
 ```
 
-<!--
+
 ## :computer: Interfaces:
 
 <div align="center">
   <img
-   src="https://user-images.githubusercontent.com/97968740/192103635-b4e094dd-6bc6-46b9-9f14-e99cf0c436a5.png"
-   alt="Interface da Aplicação Coffee Delivery, tela home, em Desktop e Laptop"
-   width=74%
+   src="https://user-images.githubusercontent.com/97968740/193136868-c300b8e4-a4cf-4eb3-aa19-5a5487d6f0f3.png"
+   alt="Interface da Aplicação DT money, tela inicial, em Desktop e Laptop"
+   width=99%
   />
   <img
-   src="https://user-images.githubusercontent.com/97968740/192104672-73dad269-6d8c-45da-9761-664e81890e95.png"
-   alt="Interface da Aplicação Coffee Delivery, tela home, em Mobile"
-   width=25%
+   src="https://user-images.githubusercontent.com/97968740/193136943-ca1519e1-6663-45d6-9123-4783138ee32c.png"
+   alt="Interface da Aplicação DT money, Modal, em Desktop e Laptop"
+   width=99%
   />
   <img
-   src="https://user-images.githubusercontent.com/97968740/192103708-2fea30a2-43bc-4c8f-b382-05d9f0e54956.png"
-   alt="Interface da Aplicação Coffee Delivery, lista de cafés, em Desktop e Laptop"
-   width=74%
-  />
-  <img
-   src="https://user-images.githubusercontent.com/97968740/192104628-1196fe73-b20a-4f46-833c-c6db81472c3d.png"
-   alt="Interface da Aplicação Coffee Delivery, lista de cafés, em Mobile"
-   width=25%
-  />
-  <img
-   src="https://user-images.githubusercontent.com/97968740/192104348-0b069aae-85d6-4647-bf70-a2618faf5960.png"
-   alt="Interface da Aplicação Coffee Delivery, pagina carrinho, em Desktop e Laptop"
-   width=74%
-  />
-  <img
-   src="https://user-images.githubusercontent.com/97968740/192104584-c9651210-25ea-42cf-92f7-cc9691fe244a.png"
-   alt="Interface da Aplicação Coffee Delivery, pagina carrinho, em Mobile"
-   width=25%
-  />
-  <img
-   src="https://user-images.githubusercontent.com/97968740/192104496-ef65c6a7-01a5-4678-ad1d-515c896981c4.png"
-   alt="Interface da Aplicação Coffee Delivery, pagina de confirmação de compra, em Desktop e Laptop"
-   width=74%
-  />
-  <img
-   src="https://user-images.githubusercontent.com/97968740/192104540-9c0e427a-e7dc-4483-a849-ecdf7df36649.png"
-   alt="Interface da Aplicação Coffee Delivery, pagina de confirmação de compra, em Mobile"
-   width=25%
-  />
-  <img
-   src="https://user-images.githubusercontent.com/97968740/192105292-195c1660-8932-405d-931f-f0f4927e7863.gif"
+   src="https://user-images.githubusercontent.com/97968740/193137315-22674baa-113c-4a0e-9298-93f8b855b822.gif"
    alt="GIF demonstrativo da aplicação"
    width=99%
-   align="center"
   />
-</div> -->
+</div> 
