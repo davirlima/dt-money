@@ -7,38 +7,6 @@
       "category": "Venda",
       "price": 1400,
       "createdAt": "2022-09-28T01:09:46.514Z"
-    },
-    {
-      "description": "Hamburgue",
-      "price": 35,
-      "category": "Alimentação",
-      "type": "outcome",
-      "createdAt": "2022-09-28T04:00:36.507Z",
-      "id": 2
-    },
-    {
-      "description": "Inglês",
-      "price": 200,
-      "category": "Educação",
-      "type": "outcome",
-      "createdAt": "2022-09-28T04:00:58.883Z",
-      "id": 3
-    },
-    {
-      "description": "Desenvolvimento de App",
-      "price": 500,
-      "category": "Venda",
-      "type": "income",
-      "createdAt": "2022-09-28T04:01:26.357Z",
-      "id": 4
-    },
-    {
-      "description": "Desing de Logotipo",
-      "price": 500,
-      "category": "Venda",
-      "type": "income",
-      "createdAt": "2022-09-29T19:56:06.118Z",
-      "id": 5
     }
   ]
 }
