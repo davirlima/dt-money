@@ -4,11 +4,7 @@
 
 # DT Money
 
-Aplicação Web front-end de organização financeira. Feito utilizando _ReactJS_.
-
-:construction: **Projeto em desenvolvimento** :construction:
-
-<!-- :link: <https://dt-money-davirlima.vercel.app/> :link: -->
+Aplicação Web front-end de organização financeira. Feito utilizando _ReactJS_ e Fake REST API com _Json Server_.
 
 </div>
 
