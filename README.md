@@ -63,7 +63,15 @@ npm install
 yarn install
 ```
 
-3. Execute a aplicação com o comando:
+3. Execute o JSON Server com o comando:
+
+```bash
+npm run dev:server
+# ou
+yarn dev:server
+```
+
+4. Execute a aplicação com o comando:
 
 ```bash
 npm run dev
